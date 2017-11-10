@@ -1,0 +1,18 @@
+.geotarget {
+  border: 1px solid rgba(0, 0, 0, .3);
+  height: 100%;
+
+  .heatmap {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 100;
+  }
+
+  .droppin {
+    position: absolute;
+    top: 10px;
+    left: 120px;
+    z-index: 100;
+  }
+}

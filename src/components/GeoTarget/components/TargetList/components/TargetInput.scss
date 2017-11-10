@@ -1,0 +1,11 @@
+.target-input {
+  font-family: 'Arial';
+  padding: 6px 10px;
+  outline: none;
+  width: 100%;
+
+  &:focus {
+    border: 1px solid #5499C7;
+    outline: none;
+  }
+}

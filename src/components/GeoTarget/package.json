@@ -1,0 +1,6 @@
+{
+  "name": "geotarget",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./GeoTarget.js"
+}
